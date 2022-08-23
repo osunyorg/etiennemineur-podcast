@@ -7,6 +7,9 @@ h1
     font-weight: 100
 
 .nav-social
-    li
-        display: inline-block
-        padding-left: 24px
+    span
+        padding: 12px
+    @include media-breakpoint-up(md)
+        li
+            display: inline-block
+            padding-left: 24px
