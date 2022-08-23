@@ -7,4 +7,8 @@
   target: https://volumique.com/v2/
   kind: url
   children: []
+- title: noesya
+  target: https://www.noesya.coop/
+  kind: url
+  children: []
 
