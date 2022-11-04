@@ -44,12 +44,22 @@ header[role="banner"]
                 text-decoration-color: black
 
 footer[role="contentinfo"]
-    padding-bottom: $spacing1
+    padding-bottom: $spacing2
+    .logo
+        img
+            height: 60px
     nav
         display: none
         &.nav-social, &.nav-legal
             display: block
+    .complementary
+        justify-content: end
+        span
+            padding: calc(12px / 2)
     .credit
+        margin-top: $spacing2
         display: block
-        padding: 12px 0
+        padding-right: calc(12px / 2)
         line-height: 1.4
+        @include media-breakpoint-up(md)
+            text-align: right
