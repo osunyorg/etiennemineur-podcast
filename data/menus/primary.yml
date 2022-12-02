@@ -3,7 +3,7 @@
   target: https://twitch.com/culturesnumeriques/
   kind: url
   children: []
-- title: Les lives
+- title: Tous les lives
   target: "/fr/actualites/"
   kind: posts
   children: []
