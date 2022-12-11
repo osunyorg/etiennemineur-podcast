@@ -7,4 +7,8 @@
   target: "/fr/actualites/archives/"
   kind: category
   children: []
+- title: À venir
+  target: "/fr/actualites/a-venir/"
+  kind: category
+  children: []
 
