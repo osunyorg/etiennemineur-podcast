@@ -3,8 +3,12 @@
   target: https://twitch.com/culturesnumeriques/
   kind: url
   children: []
-- title: Tous les lives
-  target: "/fr/actualites/"
-  kind: posts
+- title: Archives
+  target: "/fr/actualites/archives/"
+  kind: category
+  children: []
+- title: À venir
+  target: "/fr/actualites/a-venir/"
+  kind: category
   children: []
 
