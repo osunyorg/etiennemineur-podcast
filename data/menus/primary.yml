@@ -4,11 +4,11 @@
   kind: url
   children: []
 - title: Archives
-  target: "/actualites/archives/"
+  target: "/lives/archives/"
   kind: category
   children: []
 - title: À venir
-  target: "/actualites/a-venir/"
+  target: "/lives/a-venir/"
   kind: category
   children: []
 
