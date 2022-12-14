@@ -1,2 +1,2 @@
 categories: /lives/:slug/
-posts: /lives/:year/:month/:day/:slug/
+posts: /lives/:year-:month-:day-:slug/
