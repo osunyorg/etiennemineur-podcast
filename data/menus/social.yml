@@ -1,6 +1,6 @@
 ---
 - title: Avec le soutien de...
-  target: "/"
+  target: ''
   kind: blank
   children: []
 - title: Volumique
@@ -12,11 +12,11 @@
   kind: url
   children: []
 - title: MMI Bordeaux
-  target: https://www.mmibordeaux.com/
+  target: https://www.mmibordeaux.com
   kind: url
   children: []
 - title: MMI Champs
-  target: https://www.dut-mmi-champs.fr/
+  target: https://www.dut-mmi-champs.fr
   kind: url
   children: []
 
