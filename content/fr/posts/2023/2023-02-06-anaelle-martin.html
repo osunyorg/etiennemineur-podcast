@@ -54,15 +54,23 @@ contents_reading_time:
   text: >-
     environ une heure
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Replay
-    slug: "replay"
-    position: 1
-    rank: 2
+    slug: >-
+      replay
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: video
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -96,16 +104,23 @@ contents:
           <iframe class="vimeo" loading="lazy" src="https://player.vimeo.com/video/796419483" title="Video"></iframe>
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Anaëlle Martin
-    slug: "anaelle-martin"
-    position: 2
-    rank: 2
+    slug: >-
+      anaelle-martin
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -126,16 +141,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Pour aller plus loin
-    slug: "pour-aller-plus-loin"
-    position: 3
-    rank: 2
+    slug: >-
+      pour-aller-plus-loin
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -160,6 +182,8 @@ contents:
     template: license
     title: >-
       License
+    slug: >-
+      license
     ranks:
       self: 3
     data:
@@ -174,7 +198,6 @@ contents:
           CC BY-SA 4.0
         url: https://creativecommons.org/licenses/by-sa/4.0/
         icons: ["cc", "by", "sa"]
-
 
 
 ---
