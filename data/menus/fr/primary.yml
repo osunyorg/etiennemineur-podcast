@@ -9,8 +9,10 @@ items:
   target: "/lives/archives/"
   kind: category
   children: []
+  file: content/fr/posts_categories/archives/_index.html
 - title: À venir
   target: "/lives/a-venir/"
   kind: category
   children: []
+  file: content/fr/posts_categories/a-venir/_index.html
 
