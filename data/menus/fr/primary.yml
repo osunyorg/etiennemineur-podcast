@@ -4,16 +4,19 @@ items:
 - title: La chaîne Twitch
   target: https://twitch.com/culturesnumeriques
   kind: url
+  new_tab: true
   children: []
 - title: Archives
   target: "/lives/archives/"
   kind: category
+  new_tab: false
   children: []
   path: "/posts_categories/archives"
   file: content/fr/posts_categories/archives/_index.html
 - title: À venir
   target: "/lives/a-venir/"
   kind: category
+  new_tab: false
   children: []
   path: "/posts_categories/a-venir"
   file: content/fr/posts_categories/a-venir/_index.html
