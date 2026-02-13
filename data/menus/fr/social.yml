@@ -2,28 +2,38 @@
 title: Social
 items:
 - title: Avec le soutien de...
+  slug: avec-le-soutien-de
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Volumique
+  slug: volumique
   target: https://volumique.com/v2/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: noesya
+  slug: noesya
   target: https://www.noesya.coop/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: MMI Bordeaux
+  slug: mmi-bordeaux
   target: https://www.mmibordeaux.com
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: MMI Champs
+  slug: mmi-champs
   target: https://www.dut-mmi-champs.fr
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
